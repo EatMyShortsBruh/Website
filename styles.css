@@ -138,3 +138,7 @@ footer {
   }
 }
 
+a:focus {
+  outline: 2px dashed #999;
+  outline-offset: 3px;
+}
